@@ -1,0 +1,8 @@
+self.moveDown()
+self.moveRight()
+self.moveDown()
+self.moveUp()
+self.moveLeft()
+self.moveDown(2)
+self.moveRight(4)
+self.moveUp(3)
