@@ -1,0 +1,5 @@
+self.moveRight()
+self.moveUp()
+self.moveDown()
+self.moveLeft()
+self.shield()
